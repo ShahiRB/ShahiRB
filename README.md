@@ -13,7 +13,7 @@
 
 **PhD &nbsp;·&nbsp; Senior Bioinformatics Scientist**
 
-*RNA Therapeutics &nbsp;·&nbsp; Cancer Genomics &nbsp;·&nbsp; Personalised Medicine*
+*RNA Therapeutics &nbsp;·&nbsp; Cancer Genomics &nbsp;·&nbsp; Personalised Medicine ·&nbsp; Data Analysis ·&nbsp; Machine Learning*
 
 <br/>
 
