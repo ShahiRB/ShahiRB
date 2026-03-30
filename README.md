@@ -282,9 +282,25 @@ Etherna Immunotherapies is a clinical-stage RNA therapeutics company developing 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahiRB&show_icons=true&theme=dark&bg_color=0D1117&title_color=2DD67A&icon_color=4B9EFF&text_color=9DB5D4&border_color=1C2E47&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahiRB&layout=compact&theme=dark&bg_color=0D1117&title_color=2DD67A&text_color=9DB5D4&border_color=1C2E47&langs_count=6" />
+**Primary languages & tools used across research pipelines**
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-Primary_language-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R_%2F_Bioconductor-Statistical_analysis-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Pipeline_scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<br/>
+
+![Docker](https://img.shields.io/badge/Docker-Containerisation-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-Workflow_management-2DD67A?style=for-the-badge&logoColor=white)
+![HPC](https://img.shields.io/badge/HPC-Slurm_%2F_PBS-F5A623?style=for-the-badge&logo=linux&logoColor=white)
+
+<br/>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep_learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Reproducible_research-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-Scientific_writing-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 </div>
 
