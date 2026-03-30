@@ -21,7 +21,6 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ziLEJd8AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7751-6852)
 [![Profile](https://img.shields.io/badge/Profile_Page-08101E?style=for-the-badge&logo=github&logoColor=2DD67A)](https://shahirb.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajendra.bahadur.shahi.email@gmail.com)
 
 <br/>
 
